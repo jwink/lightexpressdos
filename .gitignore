@@ -4,5 +4,6 @@ npm-debug.log
 /*.env
 /*.bat
 /public/images
+/js
 
 
